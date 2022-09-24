@@ -1,0 +1,1 @@
+El archivo llamado "productoBootstrapTabla" no funciona debido a un problema con la etiqueta tabla pero buscare como solucionarlo 
